@@ -1,0 +1,10 @@
+* JZ's Org Backups
+
+A repository for storing backups of important org documents.
+
+* Security Measurements
+
+- The content of the repository is to be encrypted
+- The private key is to be backed up offline
+- The repository is to be public, so I that I don't loose access to it
+  in case I loose my Github account
